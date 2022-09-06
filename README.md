@@ -3,7 +3,7 @@
       TITLE: Tower Of Hanoi Game
       DESCRIPTION: This program is intended to show how stack is used
                    to build a game called Tower Of Hanoi.
-                   (here we use arrays to implement stacks.)
+                   (here I use arrays to implement stacks.)
 
       HOW DOES IT WORK?
          -program labels the pegs as A, B, and C.
